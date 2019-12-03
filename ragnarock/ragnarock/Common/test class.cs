@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace ragnarock.Common
 {
-    class RelayCommand
+    class test_class
     {
-        Console.WriteLine("");
     }
 }
