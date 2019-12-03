@@ -155,9 +155,14 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Common\" />
     <Folder Include="Magnus\" />
     <Folder Include="Sebastian\" />
-    <Folder Include="Tristan\" />
+    <Folder Include="Tristan\Handler\" />
+    <Folder Include="Tristan\Model\" />
+    <Folder Include="Tristan\Persistency\" />
+    <Folder Include="Tristan\ViewModel\" />
+    <Folder Include="Tristan\View\" />
   </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
