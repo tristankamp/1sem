@@ -8,6 +8,5 @@ namespace ragnarock.Common
 {
     class RelayCommand
     {
-        Console.WriteLine("");
     }
 }
